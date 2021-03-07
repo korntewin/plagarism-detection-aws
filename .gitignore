@@ -1,0 +1,7 @@
+__pycache__/*
+__MACOSX/*
+data/*
+data.zip
+plagiarism_data/*
+
+.ipynb_checkpoints/*
